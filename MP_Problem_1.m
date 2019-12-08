@@ -20,3 +20,8 @@ for n = 10:1:99
         end   
     end
 end
+
+%{ this piece-wise function is a periodic function
+   because any number that is greater than 9 will 
+   always be reduced by 10 until it satisfies the 
+   upper condition of being less than or equal to 9 }%
